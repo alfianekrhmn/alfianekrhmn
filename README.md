@@ -30,12 +30,11 @@
 ### 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfianekarahman&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=alfianekarahman&show_icons=true&theme=tokyonight&hide=stars" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfianekarahman&layout=compact&theme=tokyonight" />
 </p>
 
----
+
 <!-- 
 <!-- ### 🔥 Recent Activity
 
