@@ -15,7 +15,7 @@
 - 🌱 I’m learning to master **system design, Docker, and cloud (AWS/GCP)**
 - 🛠️ Tech Stack: `Rust`, `Node.js`, `Express.js`, `PostgreSQL`, `MongoDB`, `Docker`
 - 📚 Always improving 1% everyday, inspired by *Atomic Habits*
-- 📬 Reach me at: **[LinkedIn](https://linkedin.com/in/yourname)** | **[Twitter](https://twitter.com/yourhandle)** | **[Portfolio](https://yourportfolio.com)**
+<!-- - 📬 Reach me at: **[LinkedIn](https://linkedin.com/in/yourname)** | **[Twitter](https://twitter.com/yourhandle)** | **[Portfolio](https://yourportfolio.com)** -->
 
 ---
 
@@ -36,13 +36,13 @@
 </p>
 
 ---
-
-### 🔥 Recent Activity
+<!-- 
+<!-- ### 🔥 Recent Activity
 
 <!-- GitHub activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alfianekarahman&theme=react-dark&area=true" />
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alfianekarahman&theme=react-dark&area=true" /> -->
+</p> --> -->
 
 ---
 
@@ -55,7 +55,7 @@
 | [Portfolio Website](https://yourportfolio.com) | Personal portfolio site | `Next.js`, `Tailwind CSS`, `Vercel` |
 
 ---
-
+<!-- 
 ### 📫 Let's Connect!
 
 <p align="center">
@@ -64,5 +64,5 @@
   <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+--- -->
 <p align="center">💡 “Code like an artist. Optimize like an engineer.”</p>
