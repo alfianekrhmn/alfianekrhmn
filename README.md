@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-hero.vercel.app/api?name=Alfian+Eka+Rahman&subtitle=Backend+Developer+%7C+Rust+%7C+JavaScript&font=Inter&theme=dark" alt="hero" />
+  <img src="pp.jpg" alt="hero" />
 </p>
 
 <!-- Intro -->
