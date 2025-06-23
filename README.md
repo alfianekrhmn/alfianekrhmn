@@ -41,7 +41,7 @@
 <!-- GitHub activity graph -->
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alfianekarahman&theme=react-dark&area=true" /> -->
-</p> --> -->
+</p> 
 
 ---
 
