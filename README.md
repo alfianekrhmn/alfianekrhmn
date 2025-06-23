@@ -46,7 +46,7 @@
 
 ---
 
-### 📌 Highlight Projects
+<!-- ### 📌 Highlight Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -54,7 +54,7 @@
 | [API Express Template](https://github.com/alfianekarahman/api-express-template) | Production-ready REST API boilerplate with Express.js | `Node.js`, `Express`, `MongoDB`, `JWT` |
 | [Portfolio Website](https://yourportfolio.com) | Personal portfolio site | `Next.js`, `Tailwind CSS`, `Vercel` |
 
----
+--- -->
 <!-- 
 ### 📫 Let's Connect!
 
